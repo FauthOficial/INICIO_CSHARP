@@ -1,0 +1,14 @@
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\bin\Debug\net6.0\EXER9.exe
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\bin\Debug\net6.0\EXER9.deps.json
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\bin\Debug\net6.0\EXER9.runtimeconfig.json
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\bin\Debug\net6.0\EXER9.dll
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\bin\Debug\net6.0\EXER9.pdb
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\EXER9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\EXER9.AssemblyInfoInputs.cache
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\EXER9.AssemblyInfo.cs
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\EXER9.csproj.CoreCompileInputs.cache
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\EXER9.dll
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\refint\EXER9.dll
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\EXER9.pdb
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\EXER9.genruntimeconfig.cache
+C:\Users\55519\Desktop\CURSO C#\EXER9\EXER9\obj\Debug\net6.0\ref\EXER9.dll
