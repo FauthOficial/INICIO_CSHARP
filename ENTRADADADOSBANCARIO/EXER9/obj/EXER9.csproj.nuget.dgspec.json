@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\55519\\Desktop\\CURSO C#\\EXER9\\EXER9\\EXER9.csproj": {}
+    "C:\\Users\\55519\\Desktop\\CURSO C#\\INICIAL-C-SHARP\\ENTRADADADOSBANCARIO\\EXER9\\EXER9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\55519\\Desktop\\CURSO C#\\EXER9\\EXER9\\EXER9.csproj": {
+    "C:\\Users\\55519\\Desktop\\CURSO C#\\INICIAL-C-SHARP\\ENTRADADADOSBANCARIO\\EXER9\\EXER9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\55519\\Desktop\\CURSO C#\\EXER9\\EXER9\\EXER9.csproj",
+        "projectUniqueName": "C:\\Users\\55519\\Desktop\\CURSO C#\\INICIAL-C-SHARP\\ENTRADADADOSBANCARIO\\EXER9\\EXER9.csproj",
         "projectName": "EXER9",
-        "projectPath": "C:\\Users\\55519\\Desktop\\CURSO C#\\EXER9\\EXER9\\EXER9.csproj",
+        "projectPath": "C:\\Users\\55519\\Desktop\\CURSO C#\\INICIAL-C-SHARP\\ENTRADADADOSBANCARIO\\EXER9\\EXER9.csproj",
         "packagesPath": "C:\\Users\\55519\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\55519\\Desktop\\CURSO C#\\EXER9\\EXER9\\obj\\",
+        "outputPath": "C:\\Users\\55519\\Desktop\\CURSO C#\\INICIAL-C-SHARP\\ENTRADADADOSBANCARIO\\EXER9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
